@@ -4,7 +4,7 @@ Bem-vindo ao **Livro de Receitas Digitais**!
 Este projeto reúne diversas receitas organizadas por categorias, servindo como um acervo colaborativo para quem gosta de cozinhar e aprender novas criações.
 
 **📚 Categorias**
-- [Massas](./massas/)
+- [Bolos](./bolos/)
 
 **🧾 Receitas**
 Esta seção será atualizada conforme novas receitas forem adicionadas ao repositório.  
