@@ -53,3 +53,6 @@ Adicione o macarrão (ou arroz) e cozinhe por mais 10 minutos, até ficar macio.
 
 
 Tempere com sal, pimenta e finalize com cheiro-verde.
+
+[Voltar à Categoria](.)  
+[Voltar ao Menu Principal](../menu.md)
