@@ -19,10 +19,5 @@
 
 ---
 
-<<<<<<< HEAD:carnes/bife-a-role.md
 [Voltar à Categoria](.)  
 [Voltar ao Menu Principal](../menu.md)
-=======
-[Voltar à Categoria](.)
-[Voltar ao Menu Principal](../menu.md)
->>>>>>> b5815d9622c4df53842586c6f11b3eb759abe0fb:carnes/Bife-a-role.md
