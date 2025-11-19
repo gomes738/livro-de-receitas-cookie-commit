@@ -21,12 +21,12 @@ Criar um livro digital de receitas organizado em categorias, onde cada integrant
 
 **Equipe: Cookie Commit**
 
-Integrantes:
-- Francisco de Cassio Sales Sampaio  
-- Francisco Mailson da Silva Sousa  
-- Mateus de Araujo  
-- Rikelry Monteiro Souza  
-- Vitor Lopes da Silva  
+## Integrantes
+- Francisco de Cassio Sales Sampaio — @Cassiosampaio2016  
+- Francisco Mailson da Silva Sousa — @MailsonSousa88  
+- Mateus de Araujo — @larrySkeleton2017  
+- Rikelry Monteiro Souza — @Rikelry  
+- Vitor Lopes da Silva — @Vcoder-00  
 
 ---
 
